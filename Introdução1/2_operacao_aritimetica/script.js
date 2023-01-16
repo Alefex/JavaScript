@@ -1,0 +1,17 @@
+console.log(typeof (2 + 5));
+console.log(typeof (5 - 19));
+console.log(typeof (3 * 20));
+console.log(typeof(6 / 4));
+console.log(typeof(20 % 2));
+console.log(typeof(23 % 4));
+console.log("Alef"+1);
+console.log(typeof ("Alef"+1));
+console.log( Infinity);
+console.log( -Infinity);
+console.log(typeof NaN);
+console.log(typeof "Oi Meu nome é Emiya Shirou");
+console.log('I am the bone of my sword,\n nor know to life nor know to death,\n i still the pain for make wapons ');
+console.log(typeof `Unlimited Blade Works`);
+console.log(`A soma de 10 mais 10 é ${10+10}`);
+console.log("I am the bone of my 'Sword'");
+console.log('I am the bone of my "Sword"');
