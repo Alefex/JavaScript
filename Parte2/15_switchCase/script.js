@@ -1,6 +1,6 @@
 let nome = prompt("Whats your name?");
 
-switch(nome){
+switch (nome){
     case "Kouga":
      console.log("The name is Kouga");
      break;
@@ -10,3 +10,4 @@ switch(nome){
         console.log("The name do not exist");
     break;
 }
+
